@@ -4,13 +4,13 @@ class calc
 {
 	public function addFunc($x, $y)
 	{
-		echo "addition of " .$x. " and " .$y. " is " .$x+$y. "\n" ;
+		//echo "addition of " .$x. " and " .$y. " is " .$x+$y. "\n" ;
 		return $x+$y ;
 	}
 	
 	public function subtractFunc($x, $y)
 	{
-		echo "subtraction of " .$x. " and " .$y. " is " .$x-$y. "\n" ;
+		//echo "subtraction of " .$x. " and " .$y. " is " .$x-$y. "\n" ;
 		return $x-$y ;
 	}
 	
