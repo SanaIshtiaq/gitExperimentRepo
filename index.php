@@ -4,25 +4,25 @@ class calc
 {
 	public function addFunc($x, $y)
 	{
-		echo "addition of " .$x. " and " .$y. " is " .$x+$y. "\n" ;
+		
 		return $x+$y ;
 	}
 	
 	public function subtractFunc($x, $y)
 	{
-		echo "subtraction of " .$x. " and " .$y. " is " .$x-$y. "\n" ;
+		//echo "subtraction of " .$x. " and " .$y. " is " .$x-$y. "\n" ;
 		return $x-$y ;
 	}
 	
 	public function multiplyFunc($x, $y)
 	{
-		echo "multiplication of " .$x. " and " .$y. " is " .$x*$y. "\n" ;
+		//echo "multiplication of " .$x. " and " .$y. " is " .$x*$y. "\n" ;
 		return $x*$y ;
 	}
 
 	public function divisionFunc($x, $y)
 	{
-		echo "division of " .$x. " and " .$y. " is " .$x/$y. "\n" ;
+		//echo "division of " .$x. " and " .$y. " is " .$x/$y. "\n" ;
 		return $x/$y ;
 	}
 
