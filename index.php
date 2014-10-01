@@ -4,7 +4,7 @@ class calc
 {
 	public function addFunc($x, $y)
 	{
-		
+		//echo "addition of " .$x. " and " .$y. " is " .$x+$y. "\n" ;
 		return $x+$y ;
 	}
 	
